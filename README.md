@@ -1,4 +1,4 @@
-# 🧬 PyKinshipID: DVI Screening Tool
+# 🧬 PyKinshipID: DVI Screener Tool
 
 **Automated STR Profile Analysis for Disaster Victim Identification**
 
