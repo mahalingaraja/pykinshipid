@@ -1,9 +1,11 @@
 # 🧬 PyKinshipID: DVI Screener Tool
 Open Tool in Google Colab from Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahalingaraja/PyKinshipID/blob/main/PyKinshipID.ipynb)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19240727.svg)](https://doi.org/10.5281/zenodo.19240727)
+
 **Automated STR Profile Analysis for Disaster Victim Identification**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/PyKinshipID/blob/main/PyKinshipID.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahalingaraja/PyKinshipID/blob/main/PyKinshipID.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -151,9 +153,9 @@ If you prefer to run the tool in a local Jupyter environment:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/PyKinshipID.git
+   git clone https://github.com/mahalingaraja/PyKinshipID.git
    cd PyKinshipID
-2.Install dependencies:
+2. Install dependencies:
 
     pip install pandas ipywidgets openpyxl
 
