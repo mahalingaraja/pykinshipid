@@ -1,5 +1,5 @@
 # 🧬 PyKinshipID: DVI Screener Tool
-Open Tool Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahalingaraja/PyKinshipID/blob/main/PyKinshipID.ipynb)
+Open Tool in Google Colab from Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahalingaraja/PyKinshipID/blob/main/PyKinshipID.ipynb)
 
 **Automated STR Profile Analysis for Disaster Victim Identification**
 
